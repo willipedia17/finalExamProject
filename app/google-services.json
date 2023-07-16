@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159169420987",
+    "project_id": "finalexam-mcs-e9e55",
+    "storage_bucket": "finalexam-mcs-e9e55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159169420987:android:d09bcf20e6a7b896c8139e",
+        "android_client_info": {
+          "package_name": "com.example.finalexam_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159169420987-ounrpuq8fjhv17tqddpirjgdjci24bbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUOkNRqAF1-m8iDyG3OHj2x8acEzPrtDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159169420987-ounrpuq8fjhv17tqddpirjgdjci24bbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
